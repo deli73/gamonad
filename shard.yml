@@ -1,0 +1,13 @@
+name: gamonad
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  gamonad:
+    main: src/gamonad.cr
+
+crystal: 0.23.1
+
+license: MIT
